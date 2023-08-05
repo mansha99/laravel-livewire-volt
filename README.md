@@ -1,6 +1,6 @@
 ## What this Repo is for ?
 
-It contains source code for tutorial published athttps://medium.com/@mansha99/supereasy-livewire-laravel-volt-d3dea0f0f9c7
+It contains source code for tutorial published at https://medium.com/@mansha99/supereasy-livewire-laravel-volt-d3dea0f0f9c7
 
 ### What it demonstrates?
 
